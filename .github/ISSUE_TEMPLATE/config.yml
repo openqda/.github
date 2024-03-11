@@ -1,0 +1,11 @@
+---
+blank_issues_enabled: false
+contact_links:
+  -
+    about: Visit our Discussions page
+    name: 💡 Feature requests
+    url: hhttps://github.com/openqda/feedback/discussions/categories/ideas
+  -
+    about: Ask a question or for help on the Meteor forums
+    name: ❓ Question
+    url: https://github.com/openqda/feedback/discussions/categories/q-a
