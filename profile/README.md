@@ -5,20 +5,21 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/openqda/.github/main/profile/bg_top_left_512x512_96dpi.PNG" alt="img data collection" width="100"/>
-<img src="https://raw.githubusercontent.com/openqda/.github/main/profile/bg_bottom_left_512x512_96dpi.PNG" alt="img data preparation" width="100" />
-<img src="https://raw.githubusercontent.com/openqda/.github/main/profile/bg_top_right_512x512_96dpi.PNG" alt="img coding" width="100"/>
-<img src="https://raw.githubusercontent.com/openqda/.github/main/profile/bg_bottom_right_512x512_96dpi.PNG" alt="img analysis" width="100"/>
+<img src="https://raw.githubusercontent.com/openqda/.github/main/profile/bg_top_left_512x512_96dpi.PNG" alt="img data collection" width="200"/>
+<img src="https://raw.githubusercontent.com/openqda/.github/main/profile/bg_bottom_left_512x512_96dpi.PNG" alt="img data preparation" width="200" />
+<img src="https://raw.githubusercontent.com/openqda/.github/main/profile/bg_top_right_512x512_96dpi.PNG" alt="img coding" width="200"/>
+<img src="https://raw.githubusercontent.com/openqda/.github/main/profile/bg_bottom_right_512x512_96dpi.PNG" alt="img analysis" width="200"/>
 
 </p>
 
-<!--
+## Our Mission
 
-**Here are some ideas to get you started:**
+Mission statement
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Join Us
+
+How to get started
+
+## Contact Us
+
+- 📧 openqda@uni-bremen.de
