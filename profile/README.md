@@ -16,6 +16,10 @@
 
 Mission statement
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/openqda/.github/main/profile/zemki-und-uni-logo-weiss-1x.png" alt="img ZeMKI" width="200"/>
+</p>
+
 ## Join Us
 
 How to get started
