@@ -20,6 +20,14 @@ Mission statement
 
 How to get started
 
+## Feedback
+
+We collect feedback for our alpha- and beta-versions by E-Mail, as well as in a separate feedback repository: 
+https://github.com/openqda/feedback
+
+Feel free to open issues/discussions on any topic around OpenQDA.
+
 ## Contact Us
 
-- 📧 openqda@uni-bremen.de
+- 📧 Email us via: openqda@uni-bremen.de
+ 
