@@ -3,10 +3,10 @@
     <p>Collaborative Qualitative Research</p>
 </div>
 
-![logo top left](./bg_top_left_512x512_96dpi.PNG)
-![logo top right](./bg_top_right_512x512_96dpi.PNG)
-![logo bottom left](./bg_bottom_left_512x512_96dpi.PNG)
-![logo bottom right](./bg_bottom_right_512x512_96dpi.PNG)
+![logo top left](https://raw.githubusercontent.com/openqda/.github/main/profile/bg_top_left_512x512_96dpi.PNG)
+![logo top right](https://raw.githubusercontent.com/openqda/.github/main/profile/bg_top_right_512x512_96dpi.PNG)
+![logo bottom left](https://raw.githubusercontent.com/openqda/.github/main/profile/bg_bottom_left_512x512_96dpi.PNG)
+![logo bottom right](https://raw.githubusercontent.com/openqda/.github/main/profile/bg_bottom_right_512x512_96dpi.PNG)
 
 <!--
 
