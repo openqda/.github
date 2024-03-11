@@ -9,16 +9,14 @@
 <img src="https://raw.githubusercontent.com/openqda/.github/main/profile/bg_bottom_left_512x512_96dpi.PNG" alt="img data preparation" width="200" />
 <img src="https://raw.githubusercontent.com/openqda/.github/main/profile/bg_top_right_512x512_96dpi.PNG" alt="img coding" width="200"/>
 <img src="https://raw.githubusercontent.com/openqda/.github/main/profile/bg_bottom_right_512x512_96dpi.PNG" alt="img analysis" width="200"/>
-
+</p>
+<p align="center">
+    <img src="https://github.com/openqda/.github/blob/main/profile/zemki-und-uni-logo-weiss-1x.png?raw=true" alt="img ZeMKI" width="200"/>
 </p>
 
 ## Our Mission
 
 Mission statement
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/openqda/.github/main/profile/zemki-und-uni-logo-weiss-1x.png" alt="img ZeMKI" width="200"/>
-</p>
 
 ## Join Us
 
