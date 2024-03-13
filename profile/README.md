@@ -14,13 +14,19 @@
     <img src="https://github.com/openqda/.github/blob/main/profile/zemki-und-uni-logo-weiss-1x.png?raw=true" alt="img ZeMKI" width="200"/>
 </p>
 
-## Our Mission
+### What is OpenQDA?
+OpenQDA is a sustainable, free/libre Open Source Software for collaborative **qualitative research**. It is currently still in **Early Access development stage**, but can already be used and tested.
 
-Mission statement
+- 🚀 Register and test it now (early access): https://openqda.org
+- 📔 Read the docs: https://openqda.github.io/user-docs/
+- 📢 Give feedback: https://github.com/openqda/feedback
+- 📧 Contact us: openqda@uni-bremen.de
 
-## Join Us
+### Why does the qualitative research community need another QDA research software?
+Qualitative research projects are **methodologically diverse** and are increasingly **carried out in teams**. Existing QDA software is often complicated to use, expensive, or very limited in its capabilities.
 
-How to get started
+OpenQDA attempts to solve these issues with a collaborative approach to preparation and coding and a plugin architecture
+for extensibility.
 
 ## Feedback
 
@@ -32,4 +38,3 @@ Feel free to open issues/discussions on any topic around OpenQDA.
 ## Contact Us
 
 - 📧 Email us via: openqda@uni-bremen.de
- 
