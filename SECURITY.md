@@ -4,11 +4,7 @@
 
 ## Supported Versions
 
-We are currently in a pre-release state and don't disclose our source.
-This is not, because we don't want to, but because wa haven't 100% figured out organizational things, 
-like choosing the right license, responsibilities etc.
-
-We aim to disclose everything, once we reach the beta stage.
+We are currently in a pre-release state, which is why there is only one version, which we support 100%.
 
 ## Reporting a Vulnerability
 
