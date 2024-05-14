@@ -38,3 +38,7 @@ Feel free to open issues/discussions on any topic around OpenQDA.
 ## Contact Us
 
 - 📧 Email us via: openqda@uni-bremen.de
+
+## Roadmap
+
+Our development roadmap is constantly updated with issues and tasks in our main repository → https://github.com/openqda/openqda/milestones
