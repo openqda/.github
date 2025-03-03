@@ -32,6 +32,12 @@ Qualitative research projects are **methodologically diverse** and are increasin
 OpenQDA attempts to solve these issues with a collaborative approach to preparation and coding and a plugin architecture
 for extensibility.
 
+
+**Video: Why OpenQDA Conceptual Overview**
+
+[![Why OpenQDA Conceptual Overview](https://img.youtube.com/vi/4F9TSnvbE-w/0.jpg)](https://www.youtube.com/watch?v=4F9TSnvbE-w)
+
+
 ## Feedback
 
 We collect feedback for our alpha- and beta-versions by E-Mail, as well as in a separate feedback repository: 
