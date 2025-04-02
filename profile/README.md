@@ -21,10 +21,11 @@
 ## What is OpenQDA?
 OpenQDA is a sustainable, free/libre Open Source Software for collaborative **qualitative research**. It is currently still in **Early Access development stage**, but can already be used and tested.
 
-- 🚀 Register and test it now (early access): https://openqda.org
-- 📔 Read the docs: https://openqda.github.io/user-docs/
-- 🗣️ Give feedback: https://github.com/openqda/feedback
-- 📧 Contact us: openqda@uni-bremen.de
+- 🚀 Register now: https://openqda.org
+- 📔 Read the **user** guide: https://openqda.github.io/user-docs/
+- 📢 Give feedback and join the discussion: https://github.com/openqda/openqda/discussions
+- 🏗️ Read the **developer** guide: https://openqda.github.io/openqda/
+- 📧 Contact us: [openqda@uni-bremen.de](mailto:openqda@uni-bremen.de)
 
 ## Why does the qualitative research community need another QDA research software?
 Qualitative research projects are **methodologically diverse** and are increasingly **carried out in teams**. Existing QDA software is often complicated to use, expensive, or very limited in its capabilities.
