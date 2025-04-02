@@ -38,14 +38,6 @@ for extensibility.
 
 [![Why OpenQDA Conceptual Overview](https://img.youtube.com/vi/4F9TSnvbE-w/0.jpg)](https://www.youtube.com/watch?v=4F9TSnvbE-w)
 
-
-## Feedback
-
-We collect feedback for our alpha- and beta-versions by E-Mail, as well as in a separate feedback repository: 
-https://github.com/openqda/feedback
-
-Feel free to open issues/discussions on any topic around OpenQDA.
-
 ## Contact Us
 
 - 📧 Email us via: openqda@uni-bremen.de
